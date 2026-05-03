@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '@/lib/supabaseClient'
 import { useRouter } from 'next/navigation'
-import Navbar from '../components/Navbar.jsx'
+import Navbar from '../../components/Navbar'
 import { Plus, Trash2, Car, MapPin, RefreshCw } from 'lucide-react'
 import toast from 'react-hot-toast'
 

@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar'
+import Navbar from '../components/Navbar'
 import { Car, Shield, Zap, Globe, Award, Users } from 'lucide-react'
 
 export default function LandingPage() {
